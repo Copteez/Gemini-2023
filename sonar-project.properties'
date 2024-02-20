@@ -1,4 +1,4 @@
-sonar.projectKey=Copteez_Gemini-2023-individual
+sonar.projectKey=Copteez_Gemini-2023
 sonar.organization=copteez
 sonar.language=java
 sonar.java.binaries=.
